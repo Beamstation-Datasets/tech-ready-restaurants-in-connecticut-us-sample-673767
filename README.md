@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Connecticut, US
 
-> Free BeamStation sample export with 2 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `673767` |
 | Location | Connecticut |
 | Category | Restaurants |
-| Full dataset size | 28 records |
-| Free sample size | 2 records (7.14%) |
-| Last export | 2026-04-08T06:51:06.314399+00:00 |
+| Full dataset size | 19 records |
+| Free sample size | 1 records (5.26%) |
+| Last export | 2026-04-15T10:21:40.972194+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-connecticut-us-sample-673767/releases/download/sample-latest/beamstation_673767_restaurants-us-ct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
