@@ -1,12 +1,12 @@
 {
-  "export_job_id": "80e4306a-6730-4fcc-af60-b777baab8128",
+  "export_job_id": "0416728b-dd14-436b-b02d-672e55aecdc4",
   "id_short": 673767,
-  "published_at": "2026-04-23T07:24:39Z",
+  "published_at": "2026-04-29T19:53:01Z",
   "repo_name": "tech-ready-restaurants-in-connecticut-us-sample-673767",
   "sample_asset_name": "beamstation_673767_restaurants-us-ct_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/673767/beamstation_673767_restaurants-us-ct_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "24923d2efa73ca93c4c1487f10e446f9f29800191a37ff4952c0a6785825ee4b",
-  "sample_size_bytes": 19947,
-  "total_records": 10
+  "sample_records": 4,
+  "sample_sha256": "f1d841377c6db0e40064c578e788f1e78e2b5733f8e30bb70a5c4be0ddb77344",
+  "sample_size_bytes": 30519,
+  "total_records": 45
 }
